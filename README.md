@@ -18,16 +18,17 @@
 ### Prerequisites
 
 
-All prerequisites described in [ROS & ROS2 Bridge](https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/ext_omni_isaac_ros_bridge.html) must be fulfilled before running this extension. In addition, this extension requires the following extensions to be present in the Isaac Sim:
+All prerequisites described in [ROS & ROS2 Bridge](https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/ext_omni_isaac_ros_bridge.html) must be fulfilled before running this extension. In addition, this extension requires the following extensions to be present in Isaac Sim:
 
 - [omni.usd.schema.add_on](https://github.com/Toni-SM/omni.usd.schema.add_on): USD add-on schemas
+- [omni.add_on.ros_bridge_ui](https://github.com/Toni-SM/omni.add_on.ros_bridge_ui): Menu and commands
 
 <br>
 
 <a name="extension"></a>
 ### Add the extension to an NVIDIA Omniverse app and enable it
 
-1. Add the the extension by following the steps described in [Extension Search Paths](https://docs.omniverse.nvidia.com/py/kit/docs/guide/extensions.html#extension-search-paths) or simply download and unzip the latest [release](https://github.com/Toni-SM/omni.usd.schema.add_on/releases) in one of the extension folders such as ```PATH_TO_OMNIVERSE_APP/exts```
+1. Add the the extension by following the steps described in [Extension Search Paths](https://docs.omniverse.nvidia.com/py/kit/docs/guide/extensions.html#extension-search-paths) or simply download and unzip the latest [release](https://github.com/Toni-SM/omni.add_on.ros_control_bridge/releases) in one of the extension folders such as ```PATH_TO_OMNIVERSE_APP/exts```
 
     Git url (git+https) as extension search path: 
     
