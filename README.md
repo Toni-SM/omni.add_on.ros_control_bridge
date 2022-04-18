@@ -1,5 +1,15 @@
 ## ROS Control Bridge (add-on) for NVIDIA Omniverse Isaac Sim
 
+<br>
+<hr>
+<br>
+
+<p><strong style="color:red;">This repository has been integrated into <i>omni.add_on.ros_bridge</i>, in which its source code has been released. Visit <a href="https://github.com/Toni-SM/omni.add_on.ros_bridge">omni.add_on.ros_bridge</a></strong></p>
+
+<br>
+<hr>
+<br>
+
 > This extension enables the **ROS action interfaces used for controlling robots**. Particularly those used by [MoveIt](https://moveit.ros.org/) to talk with the controllers on the robot (**FollowJointTrajectory** and **GripperCommand**)
 
 <br>
