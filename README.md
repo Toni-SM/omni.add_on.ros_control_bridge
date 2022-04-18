@@ -4,7 +4,7 @@
 <hr>
 <br>
 
-<p><strong style="color:red;">This repository has been integrated into <i>omni.add_on.ros_bridge</i>, in which its source code has been released. Visit <a href="https://github.com/Toni-SM/omni.add_on.ros_bridge">omni.add_on.ros_bridge</a></strong></p>
+<p><strong style="color:red !important;">This repository has been integrated into <i>omni.add_on.ros_bridge</i>, in which its source code has been released. Visit <a href="https://github.com/Toni-SM/omni.add_on.ros_bridge">omni.add_on.ros_bridge</a></strong></p>
 
 <br>
 <hr>
