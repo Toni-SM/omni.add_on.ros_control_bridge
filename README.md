@@ -6,9 +6,9 @@
 
 :warning: :warning: :warning:
 
-**This repository has been integrated into `omni.add_on.ros_bridge`, in which its source code has been released.**
+**This repository has been integrated into `semu.robotics.ros_bridge`, in which its source code has been released.**
 
-**Visit [omni.add_on.ros_bridge](https://github.com/Toni-SM/omni.add_on.ros_bridge)**
+**Visit [semu.robotics.ros_bridge](https://github.com/Toni-SM/semu.robotics.ros_bridge)**
 
 :warning: :warning: :warning:
 
